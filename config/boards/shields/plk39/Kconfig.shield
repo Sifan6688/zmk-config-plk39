@@ -1,5 +1,5 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-config SHIELD_x36
-    def_bool $(shields_list_contains,x36)
+config SHIELD_plk39
+    def_bool $(shields_list_contains,plk39)
